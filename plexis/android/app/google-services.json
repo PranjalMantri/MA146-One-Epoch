@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177847534638",
+    "project_id": "security-survelance",
+    "storage_bucket": "security-survelance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177847534638:android:89c366b278a58f07f3cbbf",
+        "android_client_info": {
+          "package_name": "com.example.plexis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfoJmojXJYpo3QNjkWddfSYt1T3O__gIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
